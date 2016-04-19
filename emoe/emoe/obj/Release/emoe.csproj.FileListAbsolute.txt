@@ -1,0 +1,8 @@
+C:\Users\enrique.rodriguez\Documents\Mis archivos recibidos\emoe\emoe\emoe\bin\emoe.dll.config
+C:\Users\enrique.rodriguez\Documents\Mis archivos recibidos\emoe\emoe\emoe\bin\emoe.dll
+C:\Users\enrique.rodriguez\Documents\Mis archivos recibidos\emoe\emoe\emoe\bin\emoe.pdb
+C:\Users\enrique.rodriguez\Documents\Mis archivos recibidos\emoe\emoe\emoe\bin\menu.dll
+C:\Users\enrique.rodriguez\Documents\Mis archivos recibidos\emoe\emoe\emoe\bin\Newtonsoft.Json.dll
+C:\Users\enrique.rodriguez\Documents\Mis archivos recibidos\emoe\emoe\emoe\bin\tools.dll
+C:\Users\enrique.rodriguez\Documents\Mis archivos recibidos\emoe\emoe\emoe\obj\Release\emoe.dll
+C:\Users\enrique.rodriguez\Documents\Mis archivos recibidos\emoe\emoe\emoe\obj\Release\emoe.pdb

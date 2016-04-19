@@ -1,0 +1,18 @@
+D:\Usuarios\ernesto.herrera\Documentos\inegi\proyectos\emoe\emoe\emoe\bin\emoe.dll.config
+D:\Usuarios\ernesto.herrera\Documentos\inegi\proyectos\emoe\emoe\emoe\bin\emoe.dll
+D:\Usuarios\ernesto.herrera\Documentos\inegi\proyectos\emoe\emoe\emoe\bin\emoe.pdb
+D:\Usuarios\ernesto.herrera\Documentos\inegi\proyectos\emoe\emoe\emoe\bin\Newtonsoft.Json.dll
+D:\Usuarios\ernesto.herrera\Documentos\inegi\proyectos\emoe\emoe\emoe\obj\Debug\emoe.dll
+D:\Usuarios\ernesto.herrera\Documentos\inegi\proyectos\emoe\emoe\emoe\obj\Debug\emoe.pdb
+D:\Usuarios\ernesto.herrera\Documentos\inegi\proyectos\emoe\emoe\emoe\bin\menu.dll
+D:\Usuarios\ernesto.herrera\Documentos\inegi\proyectos\emoe\emoe\emoe\bin\tools.dll
+D:\Usuarios\ernesto.herrera\Documentos\inegi\proyectos\emoe\emoe\emoe\obj\Debug\emoe.csprojResolveAssemblyReference.cache
+C:\Users\enrique.rodriguez\Documents\Mis archivos recibidos\emoe\emoe\emoe\bin\emoe.dll.config
+C:\Users\enrique.rodriguez\Documents\Mis archivos recibidos\emoe\emoe\emoe\bin\emoe.dll
+C:\Users\enrique.rodriguez\Documents\Mis archivos recibidos\emoe\emoe\emoe\bin\emoe.pdb
+C:\Users\enrique.rodriguez\Documents\Mis archivos recibidos\emoe\emoe\emoe\bin\menu.dll
+C:\Users\enrique.rodriguez\Documents\Mis archivos recibidos\emoe\emoe\emoe\bin\Newtonsoft.Json.dll
+C:\Users\enrique.rodriguez\Documents\Mis archivos recibidos\emoe\emoe\emoe\bin\tools.dll
+C:\Users\enrique.rodriguez\Documents\Mis archivos recibidos\emoe\emoe\emoe\obj\Debug\emoe.csprojResolveAssemblyReference.cache
+C:\Users\enrique.rodriguez\Documents\Mis archivos recibidos\emoe\emoe\emoe\obj\Debug\emoe.dll
+C:\Users\enrique.rodriguez\Documents\Mis archivos recibidos\emoe\emoe\emoe\obj\Debug\emoe.pdb
